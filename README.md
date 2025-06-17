@@ -1,4 +1,4 @@
-# SQL Queries – S2.02 Practice
+# S2.02 - SQL Queries
 
 This repository contains a set of SQL queries developed for educational purposes as part of the **S2.02 - SQL Queries** module.
 
@@ -40,17 +40,8 @@ The queries include:
 
 ---
 
-## 🏁 Levels
-
-- **Level 1**: 37 queries completed (20 from University schema)
-- **Level 2**: 38 to 56 queries (20 from University schema)
-- **Level 3**: More than 56 correct queries (including 20+ University-based)
-
----
-
 ## ✅ Status
 
-> ✔ All levels achieved – full coverage of Tienda and Universidad queries  
 > 📁 Files are organized and ready for execution in MySQL Workbench or DBeaver
 
 ---
